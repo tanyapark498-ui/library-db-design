@@ -11,7 +11,11 @@
 
 ## Схема
 
+<<<<<<< HEAD
 (diagrams/bd_diagram.png)
+=======
+![Database schema](schema.png)
+>>>>>>> 7e8ab3d352ea2bc2e023e43f9867f45464cb1f32
 
 7 таблиц:
 
@@ -37,7 +41,8 @@
 
 ## Демонстрационные данные
 
-Скриншоты заполненных таблиц — в папке [diagrams/sample_data/](diagrams/sample_data/).
+Скриншоты заполненных таблиц 
+[sample_data/](sample_data/).
 
 ## ER-диаграммы
 
