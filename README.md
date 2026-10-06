@@ -11,7 +11,7 @@
 
 ## Схема
 
-![Database schema](diagrams/bd_diagram.png)
+(diagrams/bd_diagram.png)
 
 7 таблиц:
 
