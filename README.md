@@ -46,4 +46,4 @@
 
 ## Стек
 
-Microsoft SQL Server · T-SQL
+Microsoft SQL Server, T-SQL
