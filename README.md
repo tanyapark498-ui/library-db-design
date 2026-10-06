@@ -11,7 +11,7 @@
 
 ## Схема
 
-![Database schema](diagrams/schema.png)
+![Database schema](diagrams/bd_diagram.png)
 
 7 таблиц:
 
@@ -38,6 +38,14 @@
 ## Демонстрационные данные
 
 Скриншоты заполненных таблиц — в папке [diagrams/sample_data/](diagrams/sample_data/).
+
+## ER-диаграммы
+
+7 ER-диаграмм с типами связей — в папке [`diagrams/`](diagrams/).
+
+## Диаграмма вариантов использования
+
+![Use case](diagrams/use_case.png)
 
 ## Стек
 
