@@ -11,7 +11,7 @@
 
 ## Схема
 
-![Database schema](diagrams/schema.png)
+![Database schema](schema.png)
 
 7 таблиц:
 
@@ -37,7 +37,8 @@
 
 ## Демонстрационные данные
 
-Скриншоты заполненных таблиц — в папке [diagrams/sample_data/](diagrams/sample_data/).
+Скриншоты заполненных таблиц 
+[sample_data/](sample_data/).
 
 ## Стек
 
